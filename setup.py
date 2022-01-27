@@ -51,7 +51,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='Federico Capoano',
     author_email='nemesis@ninux.org',
-    url='https://github.com/openwisp/django-jsonschema-widget',
+    url='https://github.com/ShreeshaRelysys/django-jsonschema-widget',
     packages=[
         'django_jsonschema_widget',
     ],
